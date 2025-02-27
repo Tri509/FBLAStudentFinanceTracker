@@ -1,36 +1,25 @@
-#Student Finance Tracker
+The Student Finance Project was considered as a student oriented project and that is why a lot work on it has been undertaken. It is a project built using very common programming language, Python. With the help of the project you can easily add, edit, search and remove your transactions. Additionally you can even print the reports, breakdown your expenses in groups and look at the trend in expenses in the graph. A very plain concept is encouraged so that the task of managing one’s finances doesn’t feel burdensome.
 
-#Description:
-The Student Finance Tracker is a Python program for personal finance management to help students track their earnings and spending. Users can add, edit, search, and delete transactions, view their balance, print reports, classify expenditure, and display expenditure trends using graphs. The objective is to have a simple user interface to manage money efficiently.
+To better understand what the instructions are all about, the following should be considered:
 
-#Technologies Used:
-Python 3,
-Matplotlib (for displaying data),
-Datetime module (for transaction date handling)
+**What You Need:**
+- Your machine should have Python 3 already installed.
+- You will have to install the Matplotlib library as well. This can be done by downloading and installing Matplotlib. A simple way to do this is by executing the command “pip install matplotlib”.
 
-#Requirements:
-Before running the program, ensure that you have
-Python 3 installed on your system and
-Matplotlib library installed (pip install matplotlib)
+**How to Install:**
+1. Download the source code from GitHub repository.
+2. Execute the command to install Matplotlib: `pip install matplotlib`.
 
-#Installation:
-Click the other file on this github to open and download the source code
+**How to Use It:**
+- Launch the application and complete the required information. You can add, view, update, or delete entries.
+- It is possible to filter search transactions by category, type, and date.
+- Make comments on the data in a convenient way – charts that illustrate the picture and the relationships in the data. After this, just exit the program.
 
-#Install dependencies:
-pip install matplotlib
-
-#Usage:
-Run the code:
-Respond to on-screen instructions to add, view, update, or delete transactions.
-Use the search bar to search transactions by category, type, or date.
-Run summaries and view financial trends through graphs.
-Exit the program when done.
-
-Features:
-Add Transactions: Allow users to add income and expenses with category, type, and date.
-View Balance: Automatically calculates and displays the present financial balance.
-Generate Summary: Provides weekly and monthly financial reports.
-Categorize Expenses: Breaks expenditure into categories for analysis.
-Modify Transactions: Users can easily change or remove transactions.
-Search Transactions: Search transactions by category, type, or date.
-Visualize Data: Matplotlib charts of expenses by month and category.
+**Features:**
+- **Add Transactions:** Insert your incomes and spends along with their dates and categories.
+- **View Balance:** Your present account balance is displayed by the program automatically.
+- **Generate Summary:** View percentage graphical conclusions for both weeks and months of your spending.
+- **Categorize Expenses:** Conveniently place your expenses in groups in which you spent on. 
+- **Modify Transactions:** Alter any record you want or completely delete a transaction.
+- **Search Transactions:** Most conveniently search for transactions by a category, type or the exact date.
+- **Visualize Data:** Look at you spending activity using Matplotlib secured graphs from year to type.
